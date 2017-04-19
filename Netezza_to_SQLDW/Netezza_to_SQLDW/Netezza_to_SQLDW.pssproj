@@ -26,7 +26,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Netezza_to_SQLDW.md" />
+  </ItemGroup>
   <ItemGroup>
     <Compile Include="Script.ps1" />
   </ItemGroup>
